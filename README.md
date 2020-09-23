@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Aghyad
+###### Computer Engineering Student
 <!--
 **aghyad97/aghyad97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, 
 - ⚡ Fun fact: I hate coding.
-<br>
+<br />
 [![Aghyad's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
