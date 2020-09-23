@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: Email, 
 - ⚡ Fun fact: I hate coding.
-<br />
-[![Aghyad's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=default)
 
