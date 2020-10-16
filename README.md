@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I hate coding.
 
 ![Aghyad's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghyad97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
