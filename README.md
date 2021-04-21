@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Email, 
 - ⚡ Fun fact: I hate coding.
 
-![Aghyad's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghyad97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Aghyad's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aghyad97&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
