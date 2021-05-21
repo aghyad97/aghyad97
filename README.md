@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Aghyad
-###### Computer Engineering Student
+###### Computer Engineer
 <!--
 **aghyad97/aghyad97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
