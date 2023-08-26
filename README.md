@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aghyad97)](https://github.com/aghyad97)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyadh/)](https://www.linkedin.com/in/aghyadh/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agyedh)](https://twitter.com/agyedh)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/aghyad97/)](https://www.instagram.com/aghyad97/)
 
 - 🔭 I’m currently working on Mobile App and Web Development
 - 🌱 I’m currently learning Flutter, Dart and VueJS
