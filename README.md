@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/aghyad97)](https://github.com/aghyad97)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aghyadh/)](https://www.linkedin.com/in/aghyadh/)
 
-- 🔭 I’m currently working on Mobile App and Web Development
-- 🌱 I’m currently learning Flutter, Dart and VueJS
+- 🌱 NextJS, React, Flutter, Dart, Shadcn, Supabase, Firebase
 - 💬 Ask me about anything
-- 📫 How to reach me: Email, 
+- 📫 How to reach me: Email aghyaddev@gmail.com
 - ⚡ Fun fact: I'm more into normal Spaghetti than Spaghetti code.
 
 ![Aghyad's github stats](https://github-readme-stats.vercel.app/api?username=aghyad97&show_icons=true&theme=dark)
